@@ -1286,4 +1286,4 @@ client.on("ready", () => {
   console.log(`Bot Is Ready`)
 })
 
-client.login(process.env.token);
+client.login('ODg5MTM2NTk1MjcyMzUxNzc2.YUc2-w.XbL8rA0lPXdcYDD-Co16ABa9Aps');
